@@ -1,6 +1,7 @@
-extshort.weixin.qq.com
-long.weixin.qq.com
-short.weixin.qq.com
-szextshort.weixin.qq.com
-szlong.weixin.qq.com
-szshort.weixin.qq.com
+payload:
+- "extshort.weixin.qq.com"
+- "long.weixin.qq.com"
+- "short.weixin.qq.com"
+- "szextshort.weixin.qq.com"
+- "szlong.weixin.qq.com"
+- "szshort.weixin.qq.com"
