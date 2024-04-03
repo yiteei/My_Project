@@ -1,2 +1,4 @@
 payload:
-- "*.weixin.qq.com"
+- "*extshort.weixin.qq.com"
+- "*short.weixin.qq.com"
+- "*long.weixin.qq.com"
