@@ -4,4 +4,5 @@ payload:
 - "download.microsoft.com"
 - "officecdn.microsoft.com"
 - "update.microsoft.com"
-- "windowsupdate.+"
+- "windowsupdate.com"
+- "windowsupdate.*.com"
