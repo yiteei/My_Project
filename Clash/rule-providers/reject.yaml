@@ -1,2 +1,5 @@
 payload:
 - "*.teg.tencent-cloud.net"
+- "+.appcenter.ms"
+- "+.crashlytics"
+- "+.firebase.io"
